@@ -1,1 +1,1 @@
-# python_libraray_study
+# python_library_study
